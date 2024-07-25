@@ -1,0 +1,16 @@
+.login_container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;   
+}
+
+.login_container h1{
+    margin-bottom: 0.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+}
+
+.login_container p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 88%;
+}

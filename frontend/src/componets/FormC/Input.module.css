@@ -1,0 +1,25 @@
+.form_control {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;    
+}
+
+.form_control label {
+    margin-bottom: .6em;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 95%;
+}
+
+.form_control input {
+    padding: .7em;
+    border-radius: 2%;
+    border: none;
+    background-color: rgba(243, 243, 235, 0.651);    
+}
+
+.form_control input::placeholder {
+    color: #7b7b7b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;    
+}

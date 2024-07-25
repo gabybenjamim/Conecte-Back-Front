@@ -1,0 +1,23 @@
+.footer{
+    display: flex;
+    justify-content: center;    
+    padding: 35px;
+  
+}
+
+.social_list {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    margin: 0 1em;
+    font-family: Arial, Helvetica, sans-serif;    
+    cursor: pointer;    
+}
+
+.social_list:hover {
+    color: #d7d3d3;
+}
+
+.copy_right span {
+    font-weight: bold;
+} 

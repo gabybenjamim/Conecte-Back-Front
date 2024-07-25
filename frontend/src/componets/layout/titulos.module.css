@@ -1,0 +1,14 @@
+.titulo h1, .titulo p{
+    margin-bottom: 20px;
+    justify-content: flex-start;
+}
+
+.titulo h1{
+    font-weight: normal;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.titulo p{
+ font-family: merriwather;
+}
